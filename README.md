@@ -22,6 +22,14 @@ Para projetos completos de portfólio, ver os repositórios "flagship" separados
 | `eleicoes-2018/` | Análise da votação por seção eleitoral — Eleições 2018 (MG) |
 | `marketing-campaign/` | Análise de uma campanha de marketing |
 | `estatistica-com-python/` | Exercícios de estatística descritiva com Python |
+| `leitura-arquivos-pandas-spark/` | Leitura de CSV/JSON/XML/Parquet com pandas e Spark |
+| `exercicios-preparacao-dados/` | Preparação, montagem e tipagem de conjuntos de dados |
+| `ingestao-azure/` | Ingestão de dados no Azure |
+| `coleta-dados-spark-puc/` | Coleta de dados com Spark (trabalho da pós-graduação PUC Minas) |
+| `trabalho-final-projetos/` | Trabalho final de projetos de um curso |
+| `conexao-bancos-dados/` | Conexão com bancos de dados |
+| `biblioteca-pre-processamento/` | Biblioteca de pré-processamento/orquestração de dados |
+| `fundamentos-engenharia-dados/` | Exercícios introdutórios de Engenharia de Dados |
 
 ## Sobre os dados grandes
 
